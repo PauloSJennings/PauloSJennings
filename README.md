@@ -17,6 +17,6 @@ Constantemente busco novos cursos, capacitações, leituras e afins. Mantendo em
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=cubos-academy-backend-m02&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/cubos-academy-backend-m02) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=desafio-lanchonete&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/desafio-lanchonete) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=api-calculo-de-frete&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/api-calculo-de-frete)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSjennings&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSjennings&layout=compact&theme=tokyonight)](https://github.com/PauloSJennings/github-readme-stats)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=PauloSJennings&theme=bear&background=000&border=30A3DC&dates=FFF)](https://git.io/streak-stats)
