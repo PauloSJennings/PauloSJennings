@@ -1,9 +1,9 @@
 # 🌌 Paulo Jennings
 
 ## 🔍 Sobre mim
-Manauara, cursando Engenharia da Computação pela Universidade do Estado do Amazonas(UEA) e aprovado em julho de 2023 no curso técnico de Desenvolvimento de Software focado em Backend pela Cubos Academy, bolsista do programa Bootcamp Santander/DIO 2023 e com essas conquistas venho aprofundando meu conhecimento em:
+Manauara, desenvolvedor backend, aprovado em julho de 2023 no curso técnico de Desenvolvimento de Software focado em Backend pela Cubos Academy, aprovado na formação de Data Science Vem Ser Tech pela Ada Tech e bolsista do programa Bootcamp Santander/DIO 2023 e com essas conquistas venho aprofundando meu conhecimento em:
 
-Javascript, Node.js, API REST, PostgreSQL, Banco de dados, Git e Github, Python, lógica, pensamento crítico e analítico.
+Javascript, Node.js, API REST, PostgreSQL, Banco de dados, Ciência de Dados, Git e Github, Python, lógica, pensamento crítico e analítico.
 
 Constantemente busco novos cursos, capacitações, leituras e afins. Mantendo em mente que tenho sempre mais a aprender, enquanto refino o que já sei.
 
