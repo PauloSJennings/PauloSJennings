@@ -1,7 +1,7 @@
 # 🌌 Paulo Jennings
 
 ## 🔍 Sobre mim
-Manauara, estudante de programação e atualmente me esforçando para seguir a área de desenvolvimento backend ou ciência de dados. Interessado em solucionar problemas, aprender tecnologias e técnicas novas, desenvolver aplicações úteis e performáticas e trabalhar com ferramentas de coleta, transformação e análise de dados. Aprovado em julho de 2023 no curso técnico de Desenvolvimento de Software focado em Backend pela Cubos Academy, aprovado na formação de Data Science Vem Ser Tech pela Ada Tech e bolsista do programa Bootcamp Santander/DIO 2023 e com essas conquistas venho aprofundando meu conhecimento em:
+Manauara, estudante de programação e atualmente me esforçando para seguir a área de desenvolvimento backend ou ciência de dados. Interessado em solucionar problemas, aprender tecnologias e técnicas novas, desenvolver aplicações úteis e performáticas e trabalhar com ferramentas de coleta, transformação e análise de dados. Atualmente venho aprofundando meu conhecimento em:
 
 Javascript, Node.js, API REST, PostgreSQL, Banco de dados, Ciência de Dados, Git, Python, lógica, pensamento crítico e analítico.
 
@@ -9,6 +9,11 @@ Constantemente busco novos cursos, capacitações, leituras e afins. Mantendo em
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-jennings/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenningscomp@gmail.com)
+
+## Conquistas
+- Um dos 1000 aprovados em julho de 2023 na formação de Desenvolvimento de Software focado em Backend pela Cubos Academy
+- Aprovado para a formação de Data Science Vem Ser Tech pela Ada Tech
+- Bolsista do programa Bootcamp Santander/DIO 2023
 
 ## 🔧 Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,ts,python,postgres,git)](https://skillicons.dev)
