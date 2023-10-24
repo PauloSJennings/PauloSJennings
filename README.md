@@ -10,10 +10,11 @@ Constantemente busco novos cursos, capacitações, leituras e afins. Mantendo em
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-jennings/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenningscomp@gmail.com)
 
-## Conquistas
+## 🏆 Conquistas
 - Um dos 1000 aprovados em julho de 2023 na formação de Desenvolvimento de Software focado em Backend pela Cubos Academy
 - Aprovado para a formação de Data Science Vem Ser Tech pela Ada Tech
 - Bolsista do programa Bootcamp Santander/DIO 2023
+- Aprovado no programa CIEE One em parceria com Google para o curso de Análise de Dados
 
 ## 🔧 Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,ts,python,postgres,git)](https://skillicons.dev)
