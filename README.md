@@ -17,7 +17,7 @@ Constantemente busco novos cursos, capacitações, leituras e afins. Mantendo em
 - Aprovado no programa CIEE One em parceria com Google para o curso de Análise de Dados
 
 ## 🔧 Habilidades
-[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,ts,python,postgres,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,python,postgres,git)](https://skillicons.dev)
 
 ## 📂 Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=cubos-academy-backend-m02&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/cubos-academy-backend-m02) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=api-sistema-bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/api-sistema-bancario) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=api-calculo-de-frete&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/api-calculo-de-frete) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=cubos-academy-backend-m03&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/cubos-academy-backend-m03)
