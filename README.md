@@ -25,6 +25,6 @@ Constantemente busco novos cursos, capacitações, leituras e afins. Mantendo em
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSJennings&show_icons=true&theme=synthwave)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSjennings&layout=compact&theme=tokyonight)](https://github.com/PauloSJennings/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSjennings&layout=compact&theme=tokyonight)](https://github.com/PauloSJennings/github-readme-stats)
 
 
