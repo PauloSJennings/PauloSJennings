@@ -1,11 +1,17 @@
 # 🌌 Paulo Jennings
 
 ## 🔍 Sobre mim
-Manauara, estudante de programação e atualmente me esforçando para seguir a área de desenvolvimento backend ou ciência de dados. Interessado em solucionar problemas, aprender tecnologias e técnicas novas, desenvolver aplicações úteis e performáticas e trabalhar com ferramentas de coleta, transformação e análise de dados. Atualmente venho aprofundando meu conhecimento em:
+Manauara, estudante de Análise de Desenvolvimento de Sistemas empenhado em seguir a área de
+desenvolvimento backend ou ciência de dados. Interessado em solucionar problemas, aprender tecnologias e
+técnicas novas, desenvolver aplicações úteis e performáticas e trabalhar com ferramentas de coleta,
+transformação e análise de dados. Facilidade para trabalhar em equipe, propositivo, comunicativo, dedicado e
+motivado a aprender. Atualmente venho aprofundando meu conhecimento em:
 
-Javascript, Node.js, API REST, PostgreSQL, Banco de dados, Ciência de Dados, Git, Python, lógica, pensamento crítico e analítico.
+Desenvolvimento Backend com Javascript e Node.js, API REST, Python, Banco de dados com PostgreSQL, Ciência
+de Dados, Estatística, Git, lógica, pensamento crítico e analítico.
 
-Constantemente busco novos cursos, capacitações, leituras e afins. Mantendo em mente que tenho sempre mais a aprender, enquanto refino o que já sei.
+Constantemente buscando novos cursos, capacitações, leituras e afins. Mantendo em mente que tenho sempre
+mais a aprender, enquanto refino o que já sei.
 
 ## 🌐 Conecte-se comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulo-jennings/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jenningscomp@gmail.com)
