@@ -1,7 +1,7 @@
 # 🌌 Paulo Jennings
 
 ## 🔍 Sobre mim
-Manauara, estudante de Análise de Desenvolvimento de Sistemas empenhado em seguir a área de
+Manauara, estudante de Análise e Desenvolvimento de Sistemas empenhado em seguir a área de
 desenvolvimento backend ou ciência de dados. Interessado em solucionar problemas, aprender tecnologias e
 técnicas novas, desenvolver aplicações úteis e performáticas e trabalhar com ferramentas de coleta,
 transformação e análise de dados. Facilidade para trabalhar em equipe, propositivo, comunicativo, dedicado e
