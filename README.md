@@ -28,12 +28,11 @@ mais a aprender, enquanto refino o que já sei.
 ## 🔧 Habilidades
 [![My Skills](https://skillicons.dev/icons?i=js,nodejs,express,jest,py,postgres,git)](https://skillicons.dev)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSJennings&theme=tokyonight&hide_langs_below=1)](https://github.com/PauloSJennings/github-readme-stats)
+
 ## 📂 Minhas contribuições
 [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=cubos-academy-backend-m02&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/cubos-academy-backend-m02) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=api-sistema-bancario&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/api-sistema-bancario) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=api-calculo-de-frete&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/api-calculo-de-frete) [![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PauloSJennings&repo=cubos-academy-backend-m03&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/PauloSJennings/cubos-academy-backend-m03)
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PauloSJennings&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PauloSjennings&layout=compact&theme=tokyonight)](https://github.com/PauloSJennings/github-readme-stats)
 
 
